@@ -1,0 +1,6 @@
+{
+  "name": "Interactive 3D Showroom",
+  "description": "An interactive 3D showroom web application featuring a fully custom customizable Three.js vehicle shader viewer, high contrast dark theme, and rich showcase sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
