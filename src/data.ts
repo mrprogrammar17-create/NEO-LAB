@@ -8,7 +8,7 @@ export const PRODUCTS: Product[] = [
     category: "Hypercar",
     price: "$4,600,000",
     color: "#FF4E00", // Bold primary Orange accent
-    image: "/src/assets/images/bugatti_tourbillon_front_view_1780266570575.png",
+    image: "https://cdn.motor1.com/images/mgl/vxZvnQ/s1/bugatti-tourbillon.jpg",
     specs: {
       speed: "277 mph",
       power: "1,800 hp",
@@ -41,7 +41,7 @@ export const PRODUCTS: Product[] = [
     category: "Hypercar",
     price: "$3,400,000",
     color: "#8b5cf6", // Purple accent
-    image: "src/assets/images/car2.jpg",
+    image: "https://tse1.mm.bing.net/th/id/OIP.lrm1DOvV_jhNiyUnnNXGzAHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     specs: {
       speed: "330 mph (target)",
       power: "1,600 hp",
@@ -73,7 +73,7 @@ export const PRODUCTS: Product[] = [
     category: "Supercar",
     price: "$608,000",
     color: "#f97316", // Orange accent
-    image: "src/assets/images/car4.jpg",
+    image: "https://tse4.mm.bing.net/th/id/OIP.42nw19WkbgHiMO1jdcU2eQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     specs: {
       speed: "217 mph",
       power: "1,015 hp",
@@ -135,42 +135,42 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: "g1",
     title: "Chassis Calibration Lab",
     category: "Development",
-    image: "src/assets/images/m1.jpg",
+    image: "https://th.bing.com/th/id/R.788e16a8243c645e6cae9b5069483e9a?rik=YOdInJN9cuLx1Q&pid=ImgRaw&r=0",
     meta: "Laser alignment scanning within 0.01mm tolerance check"
   },
   {
     id: "g2",
     title: "Jesko Active Wing Design",
     category: "Aerodynamics",
-    image: "src/assets/images/mansory-koenigsegg-jesko-3.avif",
+    image: "https://tse3.mm.bing.net/th/id/OIP.Iw3Ozc1zliNJDjOkaAzafwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     meta: "Fibre orientation optimization across structural stress wings"
   },
   {
     id: "g3",
     title: "V16 Hybrid Reactor Core",
     category: "Propulsion",
-    image: "src/assets/images/engine.jpg",
+    image: "https://tse1.mm.bing.net/th/id/OIP.nFOLEmhipyQAy8pF2ZFDTgHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     meta: "Superconducting energy ring glow during 80h static tests"
   },
   {
     id: "g4",
     title: "Composite Monofuselage Chamber",
     category: "Materials",
-    image: "src/assets/images/engine2.jpg",
+    image: "https://tse2.mm.bing.net/th/id/OIP.dPqt33dRNlDIqWlEx_H2egHaEi?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     meta: "Ultra-high temperature baking cycles for single carbon cast"
   },
   {
     id: "g5",
     title: "Revuelto Track Dynamics",
     category: "Testing",
-    image: "src/assets/images/drift.jpg",
+    image: "https://tse3.mm.bing.net/th/id/OIP.gMBUpPMnhV2GoGnAKtZWWAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     meta: "Infrared brake rotor capture at corner entry speeds"
   },
   {
     id: "g6",
     title: "Cockpit Interface Rig",
     category: "Telemetry",
-    image: "src/assets/images/interiror.jpg",
+    image: "https://tse1.mm.bing.net/th/id/OIP.YzMnwlcZ4_waE1V7Ky0oZgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     meta: "Full simulated environment testing holographic HUD projection"
   }
 ];
